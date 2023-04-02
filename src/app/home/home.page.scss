@@ -1,0 +1,49 @@
+.content {
+    padding: 10px;
+}
+
+.welcome {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.fullname {
+    padding-left: 50px;
+    margin-bottom: 20px;
+}
+
+.menu {
+    padding: 0px;
+}
+
+.menu-item {
+    display: block;
+    background-color: blue;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.icon {
+    font-size: 50px;
+}
+
+.menu-name {}
+
+.button {
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+.badge {
+    position: absolute;
+    top: 8px;
+    right: 24px;
+    font-size: 18px;
+    background-color: #ff0000;
+    padding: 3px 10px;
+    border-radius: 12px;
+}
